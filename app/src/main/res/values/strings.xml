@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRDecoder</string>
+
+    <string name="scan">Scan/Add a Book</string>
+    <string name="scan_button">Scan</string>
+    <string name="ok_button">Next</string>
+    <string name="hint">Result</string>
+    <string name="title_activity_scan">ScanActivity</string>
+</resources>
